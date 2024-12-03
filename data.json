@@ -1,0 +1,11 @@
+{
+  "navigation_options": [
+    "proyectos",
+    "servicios",
+    "contacto"
+  ],
+  "services_prices": {
+    "simple_work": 500,
+    "complex_work": 1000
+  }
+}
